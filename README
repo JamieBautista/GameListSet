@@ -1,0 +1,27 @@
+GAME LIST SET (To-Buy List)
+A CS 165 Project
+by Jamie Grace B.Bautista
+
+------------
+REQUIREMENTS
+------------
+
+XAMPP Control Panel
+Bootstrap CDN (internet connection)
+
+-------------
+CONFIGURATION
+-------------
+
+XAMPP phpMyAdmin
+Admin Page
+
+In order for the database to connect, root user account password must be set to none
+	Open XAMPP Control Panel
+	Click Admin on the row of MySQL
+	Once page is opened, go to user accounts.
+	Edit privilege of root
+
+Opening the project
+
+Type "localhost/project165" in the URL bar.

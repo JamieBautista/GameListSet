@@ -1,0 +1,52 @@
+.container{
+	font-size: 30px;
+	text-align: center;
+}
+
+.divider{
+	padding: 10px;
+}
+
+.user_ask_add{
+	background-color: white;
+	align-content: center;
+	width:300px;
+	padding: 30px;
+	border: solid 1px #333333;
+	border-radius: 10px;
+}
+
+.dark{
+	background-color: black;
+	border-radius: 5px;
+}
+
+.gray{
+	background-color: #EBEDEF;
+	color: black !important;
+}
+
+#tableS{
+	color: white;
+	font-size: 20px;
+}
+
+#headerContainer{
+	color: white;
+	background-color: #163F58;
+	border-radius: 5px;
+}
+
+#listContainer{
+	/*color: white;*/
+	background-color: #163F58;
+	border-radius: 5px;
+}
+
+#rowPadding{
+	padding: 8px;
+}
+
+body{
+	background-color:#1F2125;
+}
